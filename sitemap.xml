@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://cosmos-explorer.example/</loc></url>
+  <url><loc>https://cosmos-explorer.example/explore</loc></url>
+  <url><loc>https://cosmos-explorer.example/solar-system</loc></url>
+  <url><loc>https://cosmos-explorer.example/planets</loc></url>
+  <url><loc>https://cosmos-explorer.example/galaxies</loc></url>
+  <url><loc>https://cosmos-explorer.example/black-holes</loc></url>
+  <url><loc>https://cosmos-explorer.example/missions</loc></url>
+  <url><loc>https://cosmos-explorer.example/timeline</loc></url>
+  <url><loc>https://cosmos-explorer.example/science</loc></url>
+</urlset>
